@@ -27,8 +27,8 @@ yellow = '#FFFF55'
 purple = '#AA00AA'
 magenta = '#AA00AA'
 
-cursor_fg = '#415062'
-cursor_bg = '#AbAbAf'
+cursor_fg = '#FFFFFF'
+cursor_bg = '#000000'
 
 sign_add = '#55FF55'
 sign_change = '#5555FF'
