@@ -10,11 +10,11 @@ M.setup = function()
   vim.g.colors_name = 'templeos'
   -- Add these lines after your colorscheme is loaded
 vim.cmd([[
-  highlight Cursor guifg=white guibg=black
-  highlight iCursor guifg=white guibg=black
-  highlight vCursor guifg=white guibg=black
-  highlight lCursor guifg=white guibg=black
-  highlight CursorIM guifg=white guibg=black
+  highlight Cursor guifg=white guibg=gray
+  highlight iCursor guifg=white guibg=gray
+  highlight vCursor guifg=white guibg=gray
+  highlight lCursor guifg=white guibg=gray
+  highlight CursorIM guifg=white guibg=gray
 ]])
 
 -- Set guicursor to use these highlight groups
