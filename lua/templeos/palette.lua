@@ -1,6 +1,6 @@
 local colors = {
   fg = "#000000",
-  bg = "#000000",
+  bg = "#FFFFFF",
   alt_fg = "#00AAAA",
   alt_bg = "#AAAAAA",
   cursorline = "#dddddd",
